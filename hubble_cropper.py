@@ -26,7 +26,7 @@ else:
 # Convert the image array to PIL Image
 image = Image.fromarray(image)
 # Define the size of the patches
-patch_size = (200, 200)
+patch_size = (512,512)
 
 # Calculate the number of patches in each dimension
 num_patches_x = image_size[0] // patch_size[0]

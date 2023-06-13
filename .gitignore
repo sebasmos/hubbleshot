@@ -1,0 +1,6 @@
+**/*.pth
+*.pth
+**/*.tif
+*.tif
+**/*.png
+*.png
