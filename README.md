@@ -10,3 +10,8 @@ Just playing around with the pictures of the universe
 
 1. [XDF Data Release 1.0](https://archive.stsci.edu/prepds/xdf/)- [Interactive Map](https://archive.stsci.edu/prepds/xdf/displaypage.html)
 
+1. [AWS Hubble data via lambda functions](https://registry.opendata.aws/hst/)
+
+
+1. [James Web Telescope](https://github.com/spacetelescope/jwebbinar_prep/tree/main/imaging_mode)
+
