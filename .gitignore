@@ -4,3 +4,7 @@
 *.tif
 **/*.png
 *.png
+**/*.ipynb_checkpoints
+*.ipynb_checkpoints
+**/*.pdf
+*.pdf
